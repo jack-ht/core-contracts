@@ -1,6 +1,6 @@
 {
   "name": "@htsoft/core-contracts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aiza GameFi core-contracts",
   "main": "index.js",
   "scripts": {
