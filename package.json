@@ -1,0 +1,28 @@
+{
+  "name": "@htsoft/core-contracts",
+  "version": "1.0.0",
+  "description": "Aiza GameFi core-contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-ht/core-contracts.git"
+  },
+  "keywords": [
+    "GameFi",
+    "Gamming",
+    "DeFi",
+    "Blockchain",
+    "Dapp",
+    "SmartContract",
+    "PlayToEarn"
+  ],
+  "author": "Jack",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jack-ht/core-contracts/issues"
+  },
+  "homepage": "https://github.com/jack-ht/core-contracts#readme"
+}
